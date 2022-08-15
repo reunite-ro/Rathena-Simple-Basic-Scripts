@@ -1,4 +1,4 @@
 # Rathena-Simple-Basic-Scripts
-Simple Basic Scripts and Changes For Rathena Emulator by Chaos92
+Simple Basic Scripts and Changes For Rathena Emulator
 
-Get Web Hosting & Game Hosting from https://billing.hostingmalaya.com.
+Grab Web Hosting & Game Hosting Solution from Hosting Malaya here : https://billing.hostingmalaya.com.
