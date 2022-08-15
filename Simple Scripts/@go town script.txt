@@ -1,0 +1,9 @@
+-	script	maintown	-1,{
+OnMaintown:
+		warp "ra_temple",0,0;
+		message strcharinfo(0),"you have been warped to maintown. Enjoy !";
+end;
+
+OnInit:
+bindatcmd("town",strnpcinfo(3)+"::OnMaintown",0,99);
+}
